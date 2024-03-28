@@ -1,0 +1,84 @@
+
+œ
+java:S1192c"TDefine a constant instead of duplicating this literal "CommandeProduit.jsp" 5 times.(¨¶ùŒúÿÿÿÿ8–¹±æã1J$47cd8209-fc45-4f9f-a537-fbb41652104a
+
+java:S1192)"HDefine a constant instead of duplicating this literal "produit" 5 times.(ÈüÊáıÿÿÿÿ8™Å–æã1J$51a4bf53-e64d-426c-85db-be757ccacd70
+‘
+java:S1192Œ"MDefine a constant instead of duplicating this literal "errorMessage" 3 times.(ˆ¡Ä¤8Ÿ°Êúã1J$1c507006-5614-4dda-b4c2-314fc226088a
+Š
+java:S1192="GDefine a constant instead of duplicating this literal "panier" 6 times.(˜ˆ³®8›Å–æã1J$3beebdc4-8f98-447e-aa25-74d534dad6b6
+p
+java:S1948"(Make "metier" transient or serializable.(Ò”Ş•şÿÿÿÿ8³Æ–æã1J$2cd7cad3-fbe3-45c3-8769-ec633fcd09b1
+‚
+java:S1161":Add the "@Override" annotation above this method signature(¡’…ùüÿÿÿÿ8·Æ–æã1J$35e69e56-c936-4632-9c9d-3b89e043fd69
+š
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 67 to the 15 allowed.(Ï¾Şüÿÿÿÿ8½Æ–æã1J$b493bbbc-f91a-42f3-8709-12b1c4367592
+£
+java:S1989"aHandle the following exceptions that could be thrown by "forward": ServletException, IOException.(ÈŒÊ8ÁÆ–æã1J$cf2ecc56-bc17-4fec-9335-300042b7779c
+£
+java:S1989&"aHandle the following exceptions that could be thrown by "forward": ServletException, IOException.(ÈŒÊ8ÃÆ–æã1J$984e11b2-7d44-4ffc-8f75-c09ed8352edd
+¤
+java:S1989*"aHandle the following exceptions that could be thrown by "forward": ServletException, IOException.(½íªå8ÃÆ–æã1J$0dbe6c4e-e33b-4221-a6f8-a87dc1977a17
+Ÿ
+java:S1989."\Handle the following exception that could be thrown by "parseDouble": NumberFormatException.(£¦‰Ü8ÄÆ–æã1J$c7ed2823-e944-454c-8ec6-9602ad7d0350
+¡
+java:S1989/"YHandle the following exception that could be thrown by "parseInt": NumberFormatException.(¹¹Ûšıÿÿÿÿ8ÄÆ–æã1J$2c41da2d-7e71-4df5-9db7-aa36da5f44fd
+œ
+java:S19890"YHandle the following exception that could be thrown by "parseInt": NumberFormatException.(ƒñÜ8ÄÆ–æã1J$54a69be2-cd0e-4905-930a-1bb7c309eb17
+¤
+java:S19893"aHandle the following exceptions that could be thrown by "forward": ServletException, IOException.(Ç«ºí8ÆÆ–æã1J$82da4017-0609-4c5d-aba3-074e583a0306
+œ
+java:S19895"YHandle the following exception that could be thrown by "parseInt": NumberFormatException.(™Œóœ8ÆÆ–æã1J$b718752b-6b2d-45e9-9ed0-f7a95387e415
+›
+java:S19898"SHandle the following exception that could be thrown by "sendRedirect": IOException.(áÏ§ÿÿÿÿÿ8ÆÆ–æã1J$a71369a0-3475-472e-8753-8cf2a5cf36bd
+ƒ	java:S1257"<This block of commented-out lines of code should be removed.(ùÔ¯¶şÿÿÿÿ8ÇÆ–æã1J$14c6a918-8a18-47a7-a777-5d838115b04b
+œ
+java:S1989:"YHandle the following exception that could be thrown by "parseInt": NumberFormatException.(™Œóœ8ÇÆ–æã1J$9d9a413c-746d-4886-9614-e162fccfbd32
+•
+java:S1989P"SHandle the following exception that could be thrown by "sendRedirect": IOException.(íó¹8ÉÆ–æã1J$4e9b381a-075b-4212-b370-a291dad7d129
+œ
+java:S1989R"YHandle the following exception that could be thrown by "parseInt": NumberFormatException.(™Œóœ8ÉÆ–æã1J$dc317e71-f0fc-4ac1-b8bd-86e6c40daef0
+¤
+java:S1989U"aHandle the following exceptions that could be thrown by "forward": ServletException, IOException.(»‹Ÿ¿8ÊÆ–æã1J$122582ef-b378-4d7f-b546-41745c89ecb6
+œ
+java:S1989W"YHandle the following exception that could be thrown by "parseInt": NumberFormatException.(™Œóœ8ËÆ–æã1J$bd4cfbce-113c-4348-9446-d11bd4311a96
+Ÿ
+java:S1989Y"\Handle the following exception that could be thrown by "parseDouble": NumberFormatException.(£¦‰Ü8ËÆ–æã1J$08b006d9-5d21-43fb-8d9b-00a152af6bb6
+¡
+java:S1989Z"YHandle the following exception that could be thrown by "parseInt": NumberFormatException.(¹¹Ûšıÿÿÿÿ8ËÆ–æã1J$240c1ddf-3d8f-439a-91e9-9d15bb48ad7b
+œ
+java:S1989["YHandle the following exception that could be thrown by "parseInt": NumberFormatException.(ƒñÜ8ËÆ–æã1J$0bf62b11-cf08-4bd5-bc76-5c5fae6c0533
+¤
+java:S1989`"aHandle the following exceptions that could be thrown by "forward": ServletException, IOException.(Ç«ºí8ÍÆ–æã1J$ccdfad8a-d55c-4b32-99df-c9c529a88abd
+©
+java:S1989c"aHandle the following exceptions that could be thrown by "forward": ServletException, IOException.(¨¶ùŒúÿÿÿÿ8ÎÆ–æã1J$2db4f507-4c6b-4c88-9dd5-1430d09c7c8f
+©
+java:S1989l"aHandle the following exceptions that could be thrown by "forward": ServletException, IOException.(¨¶ùŒúÿÿÿÿ8ÏÆ–æã1J$2de4bb84-6217-4df8-9e66-46dd3f5eaa0a
+œ
+java:S1989q"YHandle the following exception that could be thrown by "parseInt": NumberFormatException.(ÓŠû8ƒ¼±æã1J$369265de-a2b1-4c81-bdd4-1ba1aa72dd1e
+—
+java:S1989"SHandle the following exception that could be thrown by "sendRedirect": IOException.(½²¸¿8¼±æã1J$87700b78-0a0d-4532-93df-44c9e15c8c6c
+—
+java:S1989­"SHandle the following exception that could be thrown by "sendRedirect": IOException.(±ù²À8Ü‡çæã1J$93451e8e-3664-412a-ba88-af1497a11298
+ª
+java:S1989´"aHandle the following exceptions that could be thrown by "forward": ServletException, IOException.(¢°›Àüÿÿÿÿ8ÕÆ–æã1J$cf2fc4cb-6fe3-4d96-bb55-c6c9567b94ee
+ª
+java:S1989¹"aHandle the following exceptions that could be thrown by "forward": ServletException, IOException.(ù¬ê®ÿÿÿÿÿ8ÖÆ–æã1J$a4796ac1-5374-4152-a580-50bbcff921e8
+ª
+java:S1989¾"aHandle the following exceptions that could be thrown by "forward": ServletException, IOException.(âıÍóøÿÿÿÿ8ÖÆ–æã1J$c2c6a7c7-e070-4d28-a971-74176117c99f
+¥
+java:S1989Â"aHandle the following exceptions that could be thrown by "forward": ServletException, IOException.(¯æãÅ8×Æ–æã1J$71014d77-a887-4070-93d7-a60eb0d3e4fe
+ª
+java:S1989Ç"aHandle the following exceptions that could be thrown by "forward": ServletException, IOException.(õŞãõûÿÿÿÿ8ØÆ–æã1J$7a35325d-8756-41ea-b585-d2c2b6707f83
+ª
+java:S1989Ë"aHandle the following exceptions that could be thrown by "forward": ServletException, IOException.(¨¶ùŒúÿÿÿÿ8ØÆ–æã1J$916974f0-7f09-4073-ac63-625d53206f99
+ª
+java:S1989Ù"aHandle the following exceptions that could be thrown by "forward": ServletException, IOException.(¨¶ùŒúÿÿÿÿ8¦óäıä1J$1c6bb045-cc1b-4a12-a04a-c9e6c8a85912
+™
+java:S1989Ş"PHandle the following exception that could be thrown by "sendError": IOException.(„ÛË©ûÿÿÿÿ8ØÆ–æã1J$905d5438-5c40-4b10-b070-77bcbfed6423
+¨
+java:S1989å"_Handle the following exceptions that could be thrown by "doGet": ServletException, IOException.(®Ó‘ûÿÿÿÿÿ8ÙÆ–æã1J$ff401fb7-1770-4265-998a-7f50eb49c72f
+
+java:S1128"ERemove this unused import 'com.example.ecommerce.entities.Categorie'.(ş«¾úùÿÿÿÿ8µä¢èã1J$747ceae6-74b0-4f3b-a6c2-004bae5dcabc
+
+java:S6541"ÆA "Brain Method" was detected. Refactor it to reduce at least one of the following metrics: LOC from 149 to 64, Complexity from 34 to 14, Nesting Level from 5 to 2, Number of Variables from 41 to 6.(Ï¾Şüÿÿÿÿ8ÜÆ–æã1J$93eced2b-00fe-4dc6-a4a9-824197c58be6

@@ -1,0 +1,59 @@
+<%--
+  Created by IntelliJ IDEA.
+  User: dell
+  Date: 26/02/2024
+  Time: 23:09
+  To change this template use File | Settings | File Templates.
+--%>
+<%--
+  Created by IntelliJ IDEA.
+  User: dell
+  Date: 24/02/2024
+  Time: 22:06
+  To change this template use File | Settings | File Templates.
+--%>
+<%@ page contentType="text/html; charset=UTF-8" pageEncoding="UTF-8" %>
+<%@ taglib prefix="c" uri="http://java.sun.com/jsp/jstl/core" %>
+
+<html>
+
+<head>
+    <title>Produits</title>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+
+<body>
+<%@include file="header.jsp" %>
+<div class="contrainer col-md-8 col-md-offset-2 col-xs-12">
+    <div class="panel panel-primary">
+        <div class="panel-heading">Authentification</div>
+        <div class="panel-body">
+            <form action="informationPersonneles.php" method="post">
+                <div class="form-group">
+                    <label class="control-label">Login</label>
+                    <input type="text" name="j_username"  class="form-control" />
+                    <span></span>
+                </div>
+                <div class="form-group">
+                    <label class="control-label">Password</label>
+                    <input type="password" name="j_password" class="form-control" required="required"/>
+                    <span></span>
+                </div>
+                <div>
+                    <button type="submit" class="btn btn-primary">SE CONNECTER</button>
+                </div>
+            </form>
+            <form action="creerCompte.php" method="post">
+                <div>
+                    <button type="submit" class="btn btn-primary">INSCRIVEZ-VOUS</button>
+                </div>
+            </form>
+        </div>
+
+    </div>
+</div>
+</body>
+
+</html>
+

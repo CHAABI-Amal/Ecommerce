@@ -1,0 +1,30 @@
+
+†	java:S112S"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚ÒéüÿÿÿÿJ$06b64ccc-5b15-4709-8f6d-030d65018478
+†	java:S112n"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚ÒéüÿÿÿÿJ$6195a2d6-9c90-4e52-b8cb-351d42333af9
+š
+java:S22933"YReplace the type specification in this constructor call with the diamond operator ("<>").(ş¾­èøÿÿÿÿJ$2d08123d-b9ec-4266-b9f1-c06aef805b05
+Œ
+java:S1192L"IDefine a constant instead of duplicating this literal "quantite" 3 times.(»½ÁÌ8Ïªšèã1J$3e108a4c-cf2a-4714-b5c0-12b43e96307b
+’
+java:S2095"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(Ôıí¬8êªšèã1J$46b856a6-538e-4f13-9654-970da7a705de
+
+java:S2095A"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(ÅÂ­»øÿÿÿÿJ$686c3d25-b29d-4167-bec6-d089fc447ead
+
+java:S2095"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(ÅÂ­»øÿÿÿÿJ$ba856741-ebe2-46c4-978a-f45c5bd5bd9e
+‹
+java:S20956"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(Ôıí¬J$618684a0-fa7c-4c1d-84b8-d728c84ed707
+“
+java:S2095"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(Ôıí¬8êªšèã1J$12713950-02ba-49f1-ab07-bd1cd471ba7e
+Œ
+java:S2095½"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(Ôıí¬J$7f8883fc-2901-40f6-be76-55ec2a807f4c
+‹
+java:S2095w"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(Ôıí¬J$8eba9c35-0d59-4b90-8747-8759cb11e231
+‹
+java:S2095^"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(Ôıí¬J$1e2fca49-8dd1-4227-9e01-df6c2defe0e8
+Œ
+java:S2095Ÿ"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(Ôıí¬J$6f098de4-dd13-48dd-bfd3-f0418d38ecbf
+|	java:S125"<This block of commented-out lines of code should be removed.(ö‹Ï¯şÿÿÿÿJ$a4a156df-f9b5-493e-9e84-29a50bc480ee
+f	java:S106U"+Replace this use of System.out by a logger.(ïõ«¦J$fff334cd-9772-40d8-861e-efe1509458cc
+|	java:S125|"<This block of commented-out lines of code should be removed.(ö‹Ï¯şÿÿÿÿJ$7de28181-04d2-4a91-ba9d-a7f1d2537ad4
+
+java:S1128"ERemove this unused import 'com.example.ecommerce.entities.Categorie'.(ş«¾úùÿÿÿÿ8üªšèã1J$7440597d-3905-469c-9adb-73e7cfafe963

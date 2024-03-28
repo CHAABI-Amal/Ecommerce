@@ -1,0 +1,9 @@
+
+w
+java:S1128";Remove this unused import 'jakarta.persistence.JoinColumn'.(İçÆ•J$952eca3c-cc06-4cfc-b114-5b0b7a8f87af
+{
+java:S1128":Remove this unused import 'jakarta.persistence.ManyToOne'.(áîÖãùÿÿÿÿJ$a3b8e83f-1da3-49bc-a56e-db27ef9287fe
+{
+java:S1128":Remove this unused import 'jakarta.persistence.OneToMany'.( ëîéúÿÿÿÿJ$0fd0b907-caaf-44cf-9188-889a98340466
+{
+java:S1128":Remove this unused import 'jakarta.persistence.Transient'.(ÂÛÿØıÿÿÿÿJ$e4a4140f-682a-475d-845f-e00507985dc7
